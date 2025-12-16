@@ -20,7 +20,6 @@ A deep learning-based web application to automatically detect whether a given vi
 - 🧠 Uses pre-trained **ResNeXt50_32x4d** + **LSTM**
 - 🔐 Video is encrypted during processing
 - 🧪 Tested on multiple datasets: **FaceForensics++, DFDC, Celeb-DF**
-- 📊 Achieves up to **97.7% accuracy** on benchmark datasets
 
 ---
 
